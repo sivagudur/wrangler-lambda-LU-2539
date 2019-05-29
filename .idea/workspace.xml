@@ -2,38 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f49d95e0-28b5-49fe-814f-e8903aebc2e7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dependency-reduced-pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/QuestionInputData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/ValidationConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/WranglerRequest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/WranglerResponse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/WranglerResponseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/serverless/WranglerLambdaHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/service/ParseData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/takeon-wrangler-lambda.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/log4j2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/QuestionInputData$QuestionInputDataBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/QuestionInputData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/ValidationConfig.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/WranglerRequest$WranglerRequestBuilder.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/WranglerRequest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/WranglerResponse.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/entity/WranglerResponseData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/serverless/WranglerLambdaHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/uk/gov/ons/validation/service/ParseData.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/original-wrangler-lambda-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/wrangler-lambda-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -46,15 +15,6 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="232">
-              <caret line="27" selection-start-line="27" selection-end-line="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/serverless/WranglerLambdaHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="487">
@@ -62,6 +22,15 @@
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="476">
+              <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
             </state>
           </provider>
         </entry>
@@ -182,6 +151,7 @@
         <option value="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/QuestionInputData.java" />
         <option value="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/entity/WranglerRequest.java" />
         <option value="$PROJECT_DIR$/src/main/java/uk/gov/ons/validation/serverless/WranglerLambdaHandler.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -207,62 +177,7 @@
             <path>
               <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
               <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-              <item name="entity" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-              <item name="serverless" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="validation" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="takeon-wrangler-lambda" type="b2602c69:ProjectViewProjectNode" />
-              <item name="takeon-wrangler-lambda" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,10 +188,11 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559140449721" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559140501440" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Projects\takeon-wrangler-lambda" />
       <recent name="D:\Projects\takeon-wrangler-lambda\src\main\resources" />
     </key>
   </component>
@@ -307,6 +223,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
@@ -429,6 +346,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" column="3" lean-forward="true" selection-start-line="28" selection-start-column="3" selection-end-line="28" selection-end-column="3" />
         </state>
       </provider>
     </entry>
