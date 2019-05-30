@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="takeon-wrangler-lambda" />
+        <module name="wrangler-lambda" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="takeon-wrangler-lambda" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
