@@ -1,9 +1,0 @@
-uk\gov\ons\validation\entity\WranglerResponse.class
-uk\gov\ons\validation\entity\WranglerRequest$WranglerRequestBuilder.class
-uk\gov\ons\validation\serverless\WranglerLambdaHandler.class
-uk\gov\ons\validation\service\ParseData.class
-uk\gov\ons\validation\entity\QuestionInputData$QuestionInputDataBuilder.class
-uk\gov\ons\validation\entity\WranglerRequest.class
-uk\gov\ons\validation\entity\WranglerResponseData.class
-uk\gov\ons\validation\entity\QuestionInputData.class
-uk\gov\ons\validation\entity\ValidationConfig.class
